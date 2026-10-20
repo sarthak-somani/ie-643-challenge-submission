@@ -1,0 +1,6 @@
+{
+  "name": "m05_label_smoothing",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"label_smoothing\": 0.1}"
+}

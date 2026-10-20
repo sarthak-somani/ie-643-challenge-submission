@@ -1,0 +1,6 @@
+{
+  "name": "m06_cnn_trunk",
+  "arch": "multitask_cnn",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3}"
+}

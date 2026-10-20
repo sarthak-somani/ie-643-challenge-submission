@@ -1,0 +1,6 @@
+{
+  "name": "m04_30_epochs",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"epochs\": 30}"
+}

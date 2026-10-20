@@ -1,0 +1,7 @@
+# Competition data: download from Kaggle into data/ (not redistributed)
+data/*.csv
+# Run artefacts
+cache/
+logs/
+__pycache__/
+*.pyc

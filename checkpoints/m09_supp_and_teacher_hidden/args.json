@@ -1,0 +1,6 @@
+{
+  "name": "m09_supp_and_teacher_hidden",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"supp_target\": \"raw+teacher\"}"
+}

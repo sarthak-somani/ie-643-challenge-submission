@@ -1,0 +1,6 @@
+{
+  "name": "m07_deform_feature",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"deform_feature\": true}"
+}

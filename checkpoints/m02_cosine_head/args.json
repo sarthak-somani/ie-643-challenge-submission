@@ -1,0 +1,6 @@
+{
+  "name": "m02_cosine_head",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"cos_head\": 16.0}"
+}

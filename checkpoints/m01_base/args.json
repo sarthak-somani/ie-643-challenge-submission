@@ -1,0 +1,6 @@
+{
+  "name": "m01_base",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3}"
+}

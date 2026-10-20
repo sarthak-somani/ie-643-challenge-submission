@@ -1,0 +1,6 @@
+{
+  "name": "m03_supp_weight1",
+  "arch": "mlp",
+  "seeds": 3,
+  "cfg": "{\"kd_alpha\": 0.3, \"w_supp\": 1.0}"
+}
